@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Software Developer | React & Azure <br>🧠 Future AI Engineer  <br>📍 Johannesburg, South Africa</p>
+<p align="left">🚀 Software Developer | React & Azure <br>🧠 Future AI Engineer  <br>📍 Johannesburg, South Africa<br><br>I’m a developer focused on building scalable, cloud-driven applications with *React and Azure*.  <br>Currently sharpening my skills in full-stack development while expanding into **cloud architecture, data, and AI systems**</p>
 
 ###
 
