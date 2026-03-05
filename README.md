@@ -65,3 +65,7 @@
 </div>
 
 ###
+
+<p align="left">✨ Fun fact: <br><br>I specialize in full-stack development. I break both the frontend and the backend.... 👀
+
+###
