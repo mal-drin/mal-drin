@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I specialize in full-stack development. I break both the frontend and the backend.... 👀<br><br>📚 I'm currently learning<br>- Deep diving into Azure cloud services<br>- Strengthening backend fundamentals<br>- Exploring AI and machine learning fundamentals<br>- Improving system design and architecture thinking<br><br>⚡ Outside of Code<br>- Investing & long-term wealth building<br>- Fitness & performance training<br>- Business strategy & income systems</p>
+<p align="left">📚 I'm currently learning<br>- Deep diving into Azure cloud services<br>- Strengthening backend fundamentals<br>- Exploring AI and machine learning fundamentals<br>- Improving system design and architecture thinking<br><br>⚡ Outside of Code<br>- Investing & long-term wealth building<br>- Fitness & performance training<br>- Business strategy & income systems</p>
 
 ###
 
@@ -66,6 +66,6 @@
 
 ###
 
-<p align="left">✨ Fun fact: <br><br>I specialize in full-stack development. I break both the frontend and the backend.... 👀
+<p align="left">✨ Fun fact: <br><br>- I specialize in full-stack development. I break both the frontend and the backend.... 👀
 
 ###
